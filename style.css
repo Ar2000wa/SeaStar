@@ -1,0 +1,39 @@
+body {border-style:solid;
+
+  border-width: 1px;
+  border-color: black;
+  width: 340px;
+  box-shadow: 10px 10px 10px DarkGray;
+  border-top: 3;
+font: 100%/1.6 palatino, georgia, serif;
+padding: 0 1em 2em;
+display: flex;
+
+  }
+
+
+img{align:center;box-shadow: 10px 10px 8px 10px #888888; width="300"; height="300"; }
+
+ul {list-style: none; }
+
+
+.seastar{font-style: italic;}
+
+.facts{text-align:center;
+font-family: 'Courier New', monospace;
+text-style: oblique;
+
+}
+
+figure{border: 1px solid;
+display: inline-block;
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 7px;
+}
+
+h1{text-align: left;
+text-font: bold;
+font-family: Tahoma, sans-serif;
+  margin:40px;
+}
